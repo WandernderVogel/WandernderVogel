@@ -5,8 +5,8 @@
   "DaysOfWeek": [ "Mon", "Tue", "Wed", "Thurs", "Fri", "Sat", "Sun" ],
   "LongDaysOfWeek": [ "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ],
   "Strings": {
-    "Username": "WandernderVogel",
-    "Password": "43CF905C76A33CE83676C870A9FE100370E2E60FEC764F894BF37774AB723325",
+    "Username": "Nutzername",
+    "Password": "Passwort",
     "Remember Me": "Login speichern",
     "Welcome to AMP": "Willkommen bei AMP"
   }
