@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WandernderVogel
 - 👀 I’m interested in Computer Games
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning JavaScript
 
 <!---
 WandernderVogel/WandernderVogel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
